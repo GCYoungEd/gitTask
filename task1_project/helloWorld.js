@@ -1,1 +1,2 @@
-console.log("Hello World!")
+const userInput = prompt("Hello, how are you?");
+console.log(userInput)
